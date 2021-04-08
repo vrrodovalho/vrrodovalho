@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vrrodovalho
-- 👀 I’m interested mainly in Bioinformatics and Python
+- 👀 I’m interested mainly in Bioinformatics, Machine Learning and Python
 - 🌱 I’m currently learning R and PostgreSQL
 - 💞️ I’m looking to collaborate on bioinformatics-related problems.
 - 📫 How to reach me: vrrodovalho@gmail.com
